@@ -11,7 +11,7 @@ function Footer() {
         <div>
             <footer className='bg-green1'>
                 <Row>
-                    <Col xs={6} md={4} className='my-5'>
+                    <Col xs={12} md={4} className='my-5'>
                         <div className='ms-5'>
                             <h1 style={{ fontSize: '50px' }}>Plant store</h1>
                             <p style={{ fontSize: '18px', fontWeight: '350' }}>
@@ -24,7 +24,7 @@ function Footer() {
                                 <span style={{ fontSize: '20px' }}>  +(64) 8342 1245</span></p>
                         </div>
                     </Col>
-                    <Col xs={6} md={4} className='my-5'>
+                    <Col xs={12} md={4} className='my-5'>
                         <div style={{ marginTop: '5%' }}>
                             <h3>Subscribe Newsletter</h3><br />
                             <p style={{ fontSize: '20px', fontWeight: '350' }}>
@@ -41,7 +41,7 @@ function Footer() {
                             </Form>
                         </div>
                     </Col>
-                    <Col xs={6} md={4} className='my-5'>
+                    <Col xs={12} md={4} className='my-5'>
                         <Row>
                             <Col xs={6} md={6}>
                                 <div style={{ marginTop: '10%' }}>

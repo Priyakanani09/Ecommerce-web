@@ -12,10 +12,10 @@ function Footer() {
             <footer className='bg-green1'>
                 <Row>
                     <Col xs={12} md={4} className='my-5'>
-                        <div className='ms-5'>
+                        <div className='ms-4'>
                             <h1 style={{ fontSize: '50px' }}>Plant store</h1>
                             <p style={{ fontSize: '18px', fontWeight: '350' }}>
-                                “Beautiful, healthy plants for every home and <br /> garden—perfect for all plant lovers.”
+                                “Beautiful, healthy plants for every home and garden <br/> perfect for all plant lovers.”
                             </p>
                             <h5 style={{ fontSize: '29px' }}>Visit our store :-</h5>
                             <h5 style={{ fontSize: '20px', fontWeight: '400' }}>Mon - Sat : 9AM - 10PM</h5>
@@ -25,9 +25,9 @@ function Footer() {
                         </div>
                     </Col>
                     <Col xs={12} md={4} className='my-5'>
-                        <div style={{ marginTop: '5%' }}>
+                        <div style={{ marginTop: '5%' }} className='ms-4'>
                             <h3>Subscribe Newsletter</h3><br />
-                            <p style={{ fontSize: '20px', fontWeight: '350' }}>
+                            <p style={{ fontSize: '19px', fontWeight: '350' }}>
                                 We invite you to register to read the latest news, offers<br />
                                 and events about our company. We promise not spam<br />  your inbox.
                             </p>
@@ -44,7 +44,7 @@ function Footer() {
                     <Col xs={12} md={4} className='my-5'>
                         <Row>
                             <Col xs={6} md={6}>
-                                <div style={{ marginTop: '10%' }}>
+                                <div style={{ marginTop: '10%' }} className='ms-4'>
                                     <h4 style={{ fontSize: '30px' }}>About us</h4><br />
                                     <h5 className='hi5'>About us</h5>
                                     <h5 className='hi5'>Contact us</h5>

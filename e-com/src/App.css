@@ -64,6 +64,18 @@
   .hi1,.hi,.hi2{
     font-size: 40px !important;
   }
+   .icon1 {
+    width: 35px !important;
+    height: 35px !important;
+  }
+
+  .title {
+    font-size: 1.75rem;
+  }
+
+  .textp {
+    font-size: 10px;
+  }
 }
 .box
 {
